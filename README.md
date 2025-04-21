@@ -1,5 +1,7 @@
 # Diagrama Relational Fisico DataBase
 
+<img src="https://raw.githubusercontent.com/Nelsoondev/GitBook/refs/heads/main/images/erd%20fisico.png" alt="Diagrama ERD Físico" width="800">
+
 CREATE TABLE Autor
 (
   id_autor  INT         NOT NULL,
